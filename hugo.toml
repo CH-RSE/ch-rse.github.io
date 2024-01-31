@@ -1,0 +1,4 @@
+baseURL = 'https://ch-rse.org'
+languageCode = 'en-us'
+title = 'Research Software Engineers of Switzerland'
+theme = 'ananke'

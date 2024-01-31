@@ -1,0 +1,45 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "git@latest": {
+      "last_modified": "2024-01-14T03:55:27Z",
+      "resolved": "github:NixOS/nixpkgs/dd5621df6dcb90122b50da5ec31c411a0de3e538#git",
+      "source": "devbox-search",
+      "version": "2.43.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/kf597rw8mjdzvzjpzjvflp88dxj19qhm-git-2.43.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/dh45pp85n0mpsr8sh277yp2a1sd3dvzk-git-2.43.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/3gkm7jyy92a7yr87nhfqh45sy2syrb46-git-2.43.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/xw3hyxc3i4zg195yk8l6zxjvhq6vx44d-git-2.43.0"
+        }
+      }
+    },
+    "vim@latest": {
+      "last_modified": "2024-01-14T03:55:27Z",
+      "resolved": "github:NixOS/nixpkgs/dd5621df6dcb90122b50da5ec31c411a0de3e538#vim",
+      "source": "devbox-search",
+      "version": "9.0.2116",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/ws1v2dynv9cbzsrzaml8bl3lp19mm6zh-vim-9.0.2116"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/c0qngdwxghmzsmkzah9yi5c9b5m35vpz-vim-9.0.2116"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/1gyyfgq2x4fpdrfmd7c74dvpbsgvmhsn-vim-9.0.2116"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/r5sj1a2kwwrq9kki21xbsngivqn8rdzb-vim-9.0.2116"
+        }
+      }
+    }
+  }
+}
