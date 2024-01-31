@@ -1,7 +1,9 @@
 {
   "packages": [
     "git@latest",
-    "vim@latest"
+    "vim@latest",
+    "less@latest",
+    "hugo@latest"
   ],
   "shell": {
     "init_hook": [
