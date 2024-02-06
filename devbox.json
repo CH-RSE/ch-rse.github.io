@@ -3,7 +3,8 @@
     "git@latest",
     "vim@latest",
     "less@latest",
-    "hugo@latest"
+    "hugo@latest",
+    "openssh@latest"
   ],
   "shell": {
     "init_hook": [
