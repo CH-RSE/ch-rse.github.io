@@ -61,6 +61,26 @@
         }
       }
     },
+    "openssh@latest": {
+      "last_modified": "2024-01-14T03:55:27Z",
+      "resolved": "github:NixOS/nixpkgs/dd5621df6dcb90122b50da5ec31c411a0de3e538#openssh",
+      "source": "devbox-search",
+      "version": "9.6p1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/v1ss277zq44y0afrcw1975hnkfxizmjz-openssh-9.6p1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/rhl00dhqs8krca8z07r9kymplxyrrslh-openssh-9.6p1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/8bs1asr47ygljidb3imw1h6anaic3bpk-openssh-9.6p1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/l9ypx9ry9x3pkk8xfvr2r9lxpla6a00d-openssh-9.6p1"
+        }
+      }
+    },
     "vim@latest": {
       "last_modified": "2024-01-14T03:55:27Z",
       "resolved": "github:NixOS/nixpkgs/dd5621df6dcb90122b50da5ec31c411a0de3e538#vim",
